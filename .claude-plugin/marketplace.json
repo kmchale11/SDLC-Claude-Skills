@@ -1,0 +1,15 @@
+{
+  "name": "sdlc-skills",
+  "description": "Kevin McHale's agentic SDLC plugins for Claude Code",
+  "owner": {
+    "name": "Kevin McHale",
+    "url": "https://github.com/kmchale11"
+  },
+  "plugins": [
+    {
+      "name": "sdlc",
+      "source": "./plugins/sdlc",
+      "description": "Spec-driven, test-first delivery with OpenSpec, enforced by hooks"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "sdlc",
+  "displayName": "Agentic SDLC",
+  "version": "0.1.0",
+  "description": "Spec-driven, test-first delivery with OpenSpec: propose, failing tests, build, independent verify, ship and archive, with hooks that enforce each stage's rules.",
+  "author": {
+    "name": "Kevin McHale",
+    "url": "https://github.com/kmchale11"
+  },
+  "repository": "https://github.com/kmchale11/SDLC-Claude-Skills",
+  "keywords": ["sdlc", "openspec", "tdd", "spec-driven-development", "workflow"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "sdlc-claude-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tests for the sdlc Claude Code plugin",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "validate": "claude plugin validate ./plugins/sdlc && claude plugin validate ."
+  }
+}
